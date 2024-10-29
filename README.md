@@ -2,7 +2,7 @@ Ola, eu sou Leonardo
 
 Aqui estão algumas ideias para você começar:
 
-- 🔭 Atualmente estou trabalhando em projetos pessoaia
+- 🔭 Atualmente estou trabalhando em projetos no [Alura](www.alura.com.br)
 - 🌱 Atualmente estou aprendendo programar
 - 💬 Pergunte-me sobre Pokemon
 - 😄 Pronomes: geladeira/eletrolux
